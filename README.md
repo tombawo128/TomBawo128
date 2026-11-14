@@ -21,7 +21,15 @@ A web-based platform designed to simplify student internship evaluation and mana
 
 Technologies: React, Vite, Supabase.
 
-2. Online Shop
+2. SIMS – Student Internship Management System
+
+A full-stack, multi-tenant platform connecting universities, students, and companies across the internship lifecycle, including applications, placements, supervision, activity reports, evaluations, analytics, and grading.
+
+Technologies: React, TypeScript, Vite, Supabase, PostgreSQL, Row Level Security.
+
+Repository: https://github.com/tombawo128/SIMS
+
+3. Online Shop
 
 An e-commerce project focused on creating a functional online shopping experience.
 
