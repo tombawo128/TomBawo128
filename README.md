@@ -1,53 +1,121 @@
-👋 Hi, I’m Tom Bawo Jeffrey
+<!--
+  GitHub Profile README
+  Repository: tombawo128/TomBawo128
+-->
 
-**Frontend Developer | Business Information Student | Tech Enthusiast**
+<div align="center">
 
-I’m a developer based in Kigali, Rwanda, passionate about building modern, responsive and user-friendly web applications.
+# Hi, I'm Tom Bawo Jeffrey 👋
 
-I enjoy turning ideas into functional digital products and continuously improving my software development skills.
+### Business Information Student · Software Developer · Tech Enthusiast
 
-**🛠️ Technologies & Tools**
+I build practical digital products and enjoy working across frontend development, backend systems, and database design.
 
-* Frontend: HTML5, CSS3, JavaScript, React.js
-* Database: MySQL, Supabase
-* Development Tools: VS Code, Git, GitHub, Vite
-* Other Skills: Responsive Web Design, UI Development
+<p>
+  <a href="https://github.com/tombawo128">
+    <img src="https://img.shields.io/badge/GitHub-tombawo128-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/tombawo128/TomBawo">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/tombawo128/SIMS">
+    <img src="https://img.shields.io/badge/Featured%20Project-SIMS-0F766E?style=for-the-badge&logo=github" alt="SIMS project" />
+  </a>
+</p>
 
-🚀 **Featured Projects**
+📍 Kigali, Rwanda
 
-1. AIES – Academic Internship Evaluation System
+</div>
 
-A web-based platform designed to simplify student internship evaluation and management.
+---
 
-Technologies: React, Vite, Supabase.
+## About me
 
-2. SIMS – Student Internship Management System
+I'm a Business Information student at the University of Technology and Arts of Byumba (UTB), with a strong interest in software development and the practical use of technology to solve everyday problems.
 
-A full-stack, multi-tenant platform connecting universities, students, and companies across the internship lifecycle, including applications, placements, supervision, activity reports, evaluations, analytics, and grading.
+I enjoy taking an idea from a rough concept to a working application — planning the user experience, building the interface, connecting data, and improving the system as I learn.
 
-Technologies: React, TypeScript, Vite, Supabase, PostgreSQL, Row Level Security.
+My current interests include:
 
-Repository: https://github.com/tombawo128/SIMS
+- Building responsive web applications with React and TypeScript
+- Backend development, APIs, and database design
+- Authentication, access control, and application security
+- Turning academic and business processes into useful software
+- Exploring Android development with Java
 
-3. Online Shop
+## Featured work
 
-An e-commerce project focused on creating a functional online shopping experience.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 SIMS — Student Internship Management System</h3>
+      <p>A multi-tenant platform connecting students, universities, and companies throughout the internship lifecycle — from applications and placements to supervision, reporting, evaluations, and grading.</p>
+      <p><strong>Built with:</strong><br />React · TypeScript · Vite · Supabase · PostgreSQL · RLS</p>
+      <a href="https://github.com/tombawo128/SIMS">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 AIES — Academic Internship Evaluation System</h3>
+      <p>An academic project focused on organising internship evaluation and helping structure communication and assessment between students and their institution.</p>
+      <p><strong>Focus:</strong><br />Web application development · Workflow design · Database-backed features</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Developer Portfolio</h3>
+      <p>A personal portfolio built to present my background, skills, and selected development projects.</p>
+      <p><strong>Built with:</strong><br />React · Vite · CSS</p>
+      <a href="https://github.com/tombawo128/TomBawo">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce experiments</h3>
+      <p>Practical work exploring product catalogues, shopping experiences, responsive interfaces, and the structure of online stores.</p>
+      <p><strong>Focus:</strong><br />React · UI development · Application workflows</p>
+    </td>
+  </tr>
+</table>
 
-3. React Projects
+## Tech stack
 
-Building and experimenting with modern frontend applications using React and Vite.
+<div align="center">
 
-🎯 Current Goals
+**Frontend**
 
-* Improve my React and JavaScript skills.
-* Build production-ready web applications.
-* Strengthen my backend and database knowledge.
-* Contribute to real-world software projects.
-* Grow as a professional frontend developer.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="HTML, CSS, JavaScript, TypeScript, React and Vite" />
 
-📫 Let’s Connect
+**Backend, databases and tools**
 
-* GitHub: @tombawo128
-* Location: Kigali, Rwanda
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,php,java,git,github,vscode" alt="Supabase, PostgreSQL, MySQL, PHP, Java, Git, GitHub and VS Code" />
 
-Building, learning and improving one project at a time.
+</div>
+
+| Area | Technologies |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript, TypeScript, React, Vite |
+| Backend and data | Supabase, PostgreSQL, MySQL, PHP |
+| Programming | Java |
+| Developer tools | Git, GitHub, VS Code |
+| Current learning | Backend architecture, database security, Java Android development |
+
+## What I'm working towards
+
+- Building complete applications with reliable frontend and backend integration
+- Improving my understanding of software architecture and secure database design
+- Writing cleaner, more maintainable code
+- Developing useful products that solve real problems
+- Growing into a well-rounded software developer
+
+## Let's connect
+
+I'm interested in learning, collaborating, and building useful software.
+
+- **GitHub:** [@tombawo128](https://github.com/tombawo128)
+- **Portfolio:** [Tom Bawo](https://github.com/tombawo128/TomBawo)
+- **Location:** Kigali, Rwanda
+
+<div align="center">
+
+---
+
+*Build with purpose. Learn continuously. Improve every release.* 🚀
+
+</div>
